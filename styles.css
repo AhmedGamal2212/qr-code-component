@@ -2,9 +2,6 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 13px;
     background-color: hsl(212, 45%, 89%);
-}
-
-main {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -42,10 +39,6 @@ main {
     overflow: hidden;
     border-radius: 12px;
     width: 95%;
-}
-
-.container__text {
-    width: 90%;
 }
 
 .qr-container__image {
